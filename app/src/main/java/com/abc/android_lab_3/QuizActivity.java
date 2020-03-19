@@ -31,7 +31,7 @@ public class QuizActivity extends AppCompatActivity {
 
     public void onStart(String s) {
         super.onStart();
-        Log.d(TAG, "********onStart() called********");
+        Log.d(TAG, "********onStart() called*********");
     }
 
     @Override
